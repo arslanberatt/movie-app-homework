@@ -3,7 +3,6 @@
 ## 📸 Ekran Görüntüleri
 
 <div align="center">
-      <!-- 1. Satır -->
       <table>
         <tr>
           <td align="center">
@@ -12,7 +11,6 @@
               width="250px"
               style="border-radius: 12px" />
             <br />
-            <sub><b>Ana Sayfa</b></sub>
           </td>
           <td align="center">
             <img
@@ -20,7 +18,6 @@
               width="250px"
               style="border-radius: 12px" />
             <br />
-            <sub><b>Film Listesi</b></sub>
           </td>
           <td align="center">
             <img
@@ -28,11 +25,9 @@
               width="250px"
               style="border-radius: 12px" />
             <br />
-            <sub><b>Film Detayları</b></sub>
           </td>
         </tr>
       </table>
-      <!-- 2. Satır -->
       <table>
         <tr>
           <td align="center">
@@ -41,7 +36,6 @@
               width="250px"
               style="border-radius: 12px" />
             <br />
-            <sub><b>Film Ekleme</b></sub>
           </td>
           <td align="center">
             <img
@@ -49,7 +43,6 @@
               width="250px"
               style="border-radius: 12px" />
             <br />
-            <sub><b>Favoriler</b></sub>
           </td>
           <td align="center">
             <img
@@ -57,7 +50,6 @@
               width="250px"
               style="border-radius: 12px" />
             <br />
-            <sub><b>Film Düzenleme</b></sub>
           </td>
         </tr>
       </table>
